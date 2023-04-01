@@ -11,4 +11,4 @@ Cosas **muy** interesantes sobre mi:
 - Prefiero el verano antes que el invierno
 
 Y mi cara es asi: 
-![IMG_6335](https://user-images.githubusercontent.com/67173855/229303076-62aaf52e-d93d-4967-ab07-7ce10bff61a1.jpg)
+![foto pdp](IMG_6335.jpg "pdp")
